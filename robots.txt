@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://owesuece.github.io/Idv/sitemap_index.txt
+Sitemap: https://owesuece.github.io/Ucn/sitemap_index.txt
+Sitemap: https://owesuece.github.io/ZOB/sitemap_index.txt
+Sitemap: https://owesuece.github.io/pIx/sitemap_index.txt
